@@ -171,6 +171,7 @@ export default function Home() {
               cursor={true}
               preRenderFirstString={true}
               sequence={phrases}
+              repeat={Infinity}
               wrapper="span"
             />
           </div>
